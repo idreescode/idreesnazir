@@ -1,126 +1,71 @@
-<h1 align="center">Hi 👋, I'm Idrees Nazir</h1>
-<h3 align="center">Senior Full Stack Engineer | .NET | Angular | Node.js | Cloud</h3>
+<div align="center">
+  <h1>Idrees Nazir</h1>
+  <p><strong>Senior Full-Stack Engineer</strong> · .NET · Angular · Node.js · Cloud</p>
+
+  <p>
+    <a href="https://github.com/idrees-nazir">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/idrees-nazir-93237b3b/">LinkedIn</a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=idrees-nazir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+</div>
+
+---
+
+## About
+
+I build reliable, scalable software for business-critical domains—often where **legacy systems, complex integrations, and performance constraints** meet.
+
+- **Experience**: 16+ years delivering enterprise applications end-to-end
+- **Strengths**: clean architecture, API & integration design, modernization, and pragmatic delivery
+- **Domains**: ERP, finance/workflows, data processing, and internal platforms
+
+---
+
+## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,express,nextjs,python,flask,php,laravel,blazor,azure,githubactions,mssql,mysql,postgres,git" />
+</p>
+
+- **Backend**: .NET (ASP.NET Core, Web API), Node.js (Express), REST, microservices, auth (JWT/OAuth), integrations & file processing
+- **Frontend**: Angular, Next.js, TypeScript, responsive UI engineering
+- **Data**: SQL Server, PostgreSQL, MySQL
+- **Cloud/DevOps**: Azure, CI/CD (GitHub Actions / Azure DevOps), deployment automation
+
+---
+
+## Selected work
+
+> If you’d like, I can convert these into pinned repos with public case studies (problem → approach → outcome) once you share links or anonymized details.
+
+### Enterprise ERP integration platform
+- **Stack**: .NET + Angular
+- **Scope**: financial transactions, API integrations, reporting
+- **Focus**: performance, reliability, operational visibility
+
+### Legacy modernization (WebForms → modern SPA)
+- **Stack**: Angular + .NET
+- **Scope**: upgrade, performance improvements, maintainability
+
+### File-based transaction processing & automation
+- **Stack**: .NET
+- **Scope**: scheduled generation, validation, ERP uploads, auditability
+
+---
+
+## GitHub
 
 <p align="center">
-  <a href="https://github.com/idreescode">
-    <img src="https://komarev.com/ghpvc/?username=idreescode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=idrees-nazir&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees-nazir&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Contact
 
-💻 Full Stack Software Engineer with **16+ years of experience** building scalable and enterprise-grade applications.
-⚡ Specialized in **.NET, Angular, Node.js, and cloud-based solutions**
-🔧 Strong experience in **ERP systems, financial integrations, and APIs**
-🌍 Passionate about **clean code, performance, and modern architecture**
-
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,express,nextjs,python,flask,php,laravel,blazor" />
-</p>
-
----
-
-### 🧠 Backend Development
-
-* .NET Core / ASP.NET MVC / Web API
-* Node.js / Express.js
-* REST APIs & Microservices
-* Authentication (JWT, OAuth)
-* File processing & integrations
-
----
-
-### 🎨 Frontend Development
-
-* Angular (v17)
-* Next.js (SSR)
-* TypeScript / JavaScript
-* Responsive UI / UX
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres" />
-</p>
-
-* SQL Server
-* MySQL
-* PostgreSQL
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,githubactions" />
-</p>
-
-* Azure / Azure DevOps
-* CI/CD Pipelines
-* GitHub Actions
-* Deployment Automation
-
----
-
-### 🔧 Tools & Libraries
-
-* Git / GitHub
-* Entity Framework
-* pandas / NumPy
-* API Integrations
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Enterprise ERP Integration System
-
-* Tech: .NET Core + Angular
-* Features: Financial transactions, API integrations, reporting
-* Focus: Scalability & performance
-
-### 🔹 Patient Voice System (Upgrade)
-
-* Tech: ASP.NET WebForms → Angular + .NET
-* Work: Modernization & performance optimization
-
-### 🔹 File-Based Transaction Processing System
-
-* Tech: .NET Core
-* Features: Automated file generation, ERP upload, scheduling
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idreescode&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idreescode&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 What I Do
-
-* Build scalable full-stack applications
-* Design clean and maintainable architectures
-* Integrate ERP & financial systems
-* Upgrade legacy applications to modern stacks
-
----
-
-## 📫 Connect With Me
-
-* 💼 Open to freelance & remote opportunities
-* 🌐 https://www.linkedin.com/in/idrees-nazir-93237b3b/
-*  https://github.com/idreescode
+- **LinkedIn**: <a href="https://www.linkedin.com/in/idrees-nazir-93237b3b/">idrees-nazir</a>
+- **GitHub**: <a href="https://github.com/idrees-nazir">@idrees-nazir</a>
