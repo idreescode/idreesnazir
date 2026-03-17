@@ -1,14 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=140&section=header&text=Idrees%20Nazir&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
+</p>
+
 <div align="center">
-  <h1>Idrees Nazir</h1>
-  <p><strong>Senior Full-Stack Engineer</strong> · .NET · Angular · Node.js · Cloud</p>
+  <p><strong>Senior Full-Stack Engineer</strong></p>
+  <p>.NET · Angular · Node.js · Cloud</p>
 
   <p>
-    <a href="https://github.com/idrees-nazir">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/idrees-nazir-93237b3b/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/idrees-nazir-93237b3b/">LinkedIn</a> ·
+    <a href="https://github.com/idrees-nazir">GitHub</a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=idrees-nazir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=idrees-nazir&label=Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-0e75b6" alt="Open to remote and freelance" />
   </p>
 </div>
 
@@ -16,11 +21,11 @@
 
 ## About
 
-I build reliable, scalable software for business-critical domains—often where **legacy systems, complex integrations, and performance constraints** meet.
+I build reliable, scalable software for business‑critical domains—often where **legacy systems, complex integrations, and performance constraints** meet.
 
-- **Experience**: 16+ years delivering enterprise applications end-to-end
-- **Strengths**: clean architecture, API & integration design, modernization, and pragmatic delivery
-- **Domains**: ERP, finance/workflows, data processing, and internal platforms
+- **Experience**: 16+ years delivering enterprise applications end-to-end  
+- **Focus**: clean architecture, modernization, integrations, and performance  
+- **Domains**: ERP/finance workflows, data processing, internal platforms
 
 ---
 
@@ -30,37 +35,33 @@ I build reliable, scalable software for business-critical domains—often where 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,express,nextjs,python,flask,php,laravel,blazor,azure,githubactions,mssql,mysql,postgres,git" />
 </p>
 
-- **Backend**: .NET (ASP.NET Core, Web API), Node.js (Express), REST, microservices, auth (JWT/OAuth), integrations & file processing
-- **Frontend**: Angular, Next.js, TypeScript, responsive UI engineering
-- **Data**: SQL Server, PostgreSQL, MySQL
-- **Cloud/DevOps**: Azure, CI/CD (GitHub Actions / Azure DevOps), deployment automation
+- **Backend**: ASP.NET Core / Web API, Node.js (Express), REST, auth (JWT/OAuth), integrations & file processing  
+- **Frontend**: Angular, Next.js, TypeScript  
+- **Data**: SQL Server, PostgreSQL, MySQL  
+- **Cloud/DevOps**: Azure, CI/CD (GitHub Actions / Azure DevOps)  
 
 ---
 
-## Selected work
+## Highlights
 
-> If you’d like, I can convert these into pinned repos with public case studies (problem → approach → outcome) once you share links or anonymized details.
+- Modernize legacy apps into maintainable, testable, deployable systems
+- Design APIs/integration layers that are observable and resilient
+- Build data/file processing pipelines with auditability and operational safety
 
-### Enterprise ERP integration platform
-- **Stack**: .NET + Angular
-- **Scope**: financial transactions, API integrations, reporting
-- **Focus**: performance, reliability, operational visibility
+---
 
-### Legacy modernization (WebForms → modern SPA)
-- **Stack**: Angular + .NET
-- **Scope**: upgrade, performance improvements, maintainability
+## Selected work (high level)
 
-### File-based transaction processing & automation
-- **Stack**: .NET
-- **Scope**: scheduled generation, validation, ERP uploads, auditability
+- **Enterprise ERP integration platform**: .NET + Angular · financial transactions, reporting, integrations · performance & reliability focus  
+- **Legacy modernization**: WebForms → Angular + .NET · upgrades, performance improvements, maintainability  
+- **Transaction automation**: .NET · scheduled file generation/validation, ERP uploads, auditing  
 
 ---
 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idrees-nazir&show_icons=true&hide_title=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees-nazir&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idrees-nazir&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
